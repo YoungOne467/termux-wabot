@@ -20,9 +20,9 @@
   "author": "MhankBarBar",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.4.1",
+    "@adiwajshing/baileys": "^5.0.0",
     "async": "^3.2.0",
-    "axios": "^0.21.1",
+    "axios": "^1.6.4",
     "cfonts": "^2.9.0",
     "escape-string-regexp": "^5.0.0",
     "fake-useragent": "^1.0.1",
